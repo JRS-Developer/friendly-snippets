@@ -148,7 +148,7 @@
 		"description": "For Loop"
 	},
 	"For-Each Loop using =>": {
-		"prefix": "foreach =>",
+		"prefix": "foreach",
 		"body": [
 			"${1:array}.forEach(${2:element} => {",
 			"\t$0",
